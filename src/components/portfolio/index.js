@@ -12,20 +12,6 @@ export default class Portfolio extends Component {
               <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
                 <div className="columns portfolio-item">
                   <div className="item-wrap">
-                    <a href="#modal-01" title>
-                      <img alt="" src="images/portfolio/createy.png" />
-                      <div className="overlay">
-                        <div className="portfolio-item-meta">
-                          <h5>Createy</h5>
-                          <p>Ruby on Rails, ReactJs</p>
-                        </div>
-                      </div>
-                      <div className="link-icon"><i className="icon-plus" /></div>
-                    </a>
-                  </div>
-                </div> {/* item end */}
-                <div className="columns portfolio-item">
-                  <div className="item-wrap">
                     <a href="#modal-02" title>
                       <img alt="" src="images/portfolio/eduleaf.png" />
                       <div className="overlay">
@@ -84,18 +70,6 @@ export default class Portfolio extends Component {
             </div> {/* twelve columns end */}
             {/* Modal Popup
 	      --------------------------------------------------------------- */}
-            <div id="modal-01" className="popup-modal mfp-hide">
-              <img className="scale-with-grid" src="images/portfolio/modals/createy.png" alt="" />
-              <div className="description-box">
-                <h4>Createy</h4>
-                <p>A one stop solution for creating and managing your online business, including payment solution, mobile and web app creation and management, inventory management and many more.</p>
-                <span className="categories"><i className="fa fa-tag" />Ruby on Rails, ReactJs</span>
-              </div>
-              <div className="link-box">
-                <a href="http://createy-customer-admin-staging.s3-website.eu-west-2.amazonaws.com/">Details</a>
-                <a className="popup-modal-dismiss">Close</a>
-              </div>
-            </div>{/* modal-01 End */}
             <div id="modal-02" className="popup-modal mfp-hide">
               <img className="scale-with-grid" src="images/portfolio/modals/eduleaf.png" alt="" />
               <div className="description-box">
