@@ -12,6 +12,19 @@ export default class Portfolio extends Component {
               <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
                 <div className="columns portfolio-item">
                   <div className="item-wrap">
+                    <a href="#modal-01" title>
+                      <img alt="" src="images/portfolio/rageon.jpg" />
+                      <div className="overlay">
+                        <div className="portfolio-item-meta">
+                          <h5>RageOn</h5>
+                          <p>ROR, ReactJs, Liquid, Shopify integration and NodeJS</p>
+                        </div>
+                      </div>
+                      <div className="link-icon"><i className="icon-plus" /></div>
+                    </a>
+                  </div>
+                </div> {/* item end */}                <div className="columns portfolio-item">
+                  <div className="item-wrap">
                     <a href="#modal-02" title>
                       <img alt="" src="images/portfolio/eduleaf.png" />
                       <div className="overlay">
@@ -70,6 +83,22 @@ export default class Portfolio extends Component {
             </div> {/* twelve columns end */}
             {/* Modal Popup
 	      --------------------------------------------------------------- */}
+            <div id="modal-01" className="popup-modal mfp-hide">
+              <img className="scale-with-grid" src="images/portfolio/modals/rageon.jpg" alt="" />
+              <div className="description-box">
+                <h4>RageOn</h4>
+                <p>
+                  RageOn.com is the World’s Largest All-Over-Print Online Store that features over 150 licensed celebrities,
+                  brands, and artists from all over the world. Here users can create customized products of more than 200 types
+                  and can cal on RageOn as well as their own Shopify stores.
+                </p>
+                <span className="categories"><i className="fa fa-tag" />ROR, ReactJs, Liquid, Shopify integration and NodeJS</span>
+              </div>
+              <div className="link-box">
+                <a href="https://rageon.com/">Details</a>
+                <a className="popup-modal-dismiss">Close</a>
+              </div>
+            </div>{/* modal-02 End */}
             <div id="modal-02" className="popup-modal mfp-hide">
               <img className="scale-with-grid" src="images/portfolio/modals/eduleaf.png" alt="" />
               <div className="description-box">

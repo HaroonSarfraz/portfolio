@@ -29,8 +29,20 @@ export default class Resume extends Component {
             <div className="nine columns main-col">
               <div className="row item">
                 <div className="twelve columns">
+                  <h3>RageOn</h3>
+                  <p className="info">ROR, ReactJs, Liquid, Shopify integration and NodeJS<span>•</span> <em className="date">5 months</em></p>
+                  <p>
+                    RageOn.com is the World’s Largest All-Over-Print Online Store that features over 150 licensed celebrities,
+                    brands, and artists from all over the world. Here users can create customized products of more than 200 types
+                    and can cal on RageOn as well as their own Shopify stores.
+                </p>
+                </div>
+              </div> {/* item end */}
+
+              <div className="row item">
+                <div className="twelve columns">
                   <h3>Createy</h3>
-                  <p className="info">Ruby on Rails and ReactJs<span>•</span> <em className="date">5 months</em></p>
+                  <p className="info">Ruby on Rails and ReactJs<span>•</span> <em className="date">12 months</em></p>
                   <p>
                     A one stop solution for creating and managing your online business, including payment solution,
                     mobile and web app creation and management, inventory management and many more.
@@ -41,7 +53,7 @@ export default class Resume extends Component {
               <div className="row item">
                 <div className="twelve columns">
                   <h3>Eduleaf</h3>
-                  <p className="info">Ruby on Rails<span>•</span> <em className="date">1 month</em></p>
+                  <p className="info">Ruby on Rails<span>•</span> <em className="date">2 month</em></p>
                   <p>
                     Eduleaf is an automated online tool that allows the grading of ordinary paper-based exams
                     containing any type of questions. It can handle math questions, chemical diagrams,
@@ -63,7 +75,7 @@ export default class Resume extends Component {
               <div className="row item">
                 <div className="twelve columns">
                   <h3>SS-Cloud</h3>
-                  <p className="info">Ruby on Rails, AngularJS and Python(flask)<span>•</span> <em className="date">10 months</em></p>
+                  <p className="info">Ruby on Rails, AngularJS and Python(flask)<span>•</span> <em className="date">12 months</em></p>
                   <p>
                     It’s a platform to manage un-sold, damaged products and hazard waste. Here buyers can contact
                     sellers and it will also provide guidance for hazard waste transport rules applicable on their products.
@@ -74,7 +86,7 @@ export default class Resume extends Component {
               <div className="row item">
                 <div className="twelve columns">
                   <h3>Acloud</h3>
-                  <p className="info">Ruby on Rails and ReactJS<span>•</span> <em className="date">12 months</em></p>
+                  <p className="info">Ruby on Rails and ReactJS<span>•</span> <em className="date">16 months</em></p>
                   <p>
                     This is a License management tool of a well known Networking company.
                     A user can buy a license of a Network security device and can monitor its usage here..
