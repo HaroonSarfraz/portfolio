@@ -51,10 +51,10 @@ export default class Resume extends Component {
 
               <div className="row item">
                 <div className="twelve columns">
-                  <h3>Emilia Insurance & Whiskey Tango Foxtrot</h3>
+                  <h3>Client websites based on Nuxt</h3>
                   <p className="info">VueJS(FE), Ruby on Rails(BE)<span>•</span> <em className="date">1.5 months</em></p>
                   <p>
-                    I was responsible for developing the frontend for both of the companies sites as well as
+                    I was responsible for developing the frontend for two companies portfolio sites as well as
                     the backend to manage the authentication, subscriptions, and alerts.
                   </p>
                 </div>

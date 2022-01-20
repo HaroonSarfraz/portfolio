@@ -17,11 +17,21 @@ export default class Header extends Component {
                       <blockquote>
                         <p>
                           In his position as a Software engineer, Haroon Sarfraz demonstrated critical skills that made
-                           him an excellent developer to work with. His effectiveness,
-                           reliability and critical thinking ensured that all projects were completed successfully
-                           right on time, making him a truly invaluable member of our team.
-                      </p>
+                          him an excellent developer to work with. His effectiveness,
+                          reliability and critical thinking ensured that all projects were completed successfully
+                          right on time, making him a truly invaluable member of our team.
+                        </p>
                         <cite>Hermann von Marsoner</cite>
+                      </blockquote>
+                    </li> {/* slide ends */}
+                    <li>
+                      <blockquote>
+                        <p>
+                          Haroon is one of the best developers we worked with in 2021. His code quality was high and
+                          communication skills made him a great addition to our team. He didn't only deliver features
+                          without bugs, he also helped the other developers in his team get better.
+                        </p>
+                        <cite>Till Carlos</cite>
                       </blockquote>
                     </li> {/* slide ends */}
                   </ul>
