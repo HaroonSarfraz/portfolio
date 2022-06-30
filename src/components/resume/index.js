@@ -15,7 +15,7 @@ export default class Resume extends Component {
               <div className="row item">
                 <div className="twelve columns">
                   <h3>Punjab University College of Information Technology</h3>
-                  <p className="info">Bachelor of Information Technology (Hons)<span>•</span> <em className="date">July 2017</em></p>
+                  <p className="info">Bachelor of Information Technology (Hons) | 3.30/4 CGPA<span>•</span> <em className="date">July 2017</em></p>
                 </div>
               </div> {/* item end */}
             </div> {/* main-col end */}
@@ -30,7 +30,7 @@ export default class Resume extends Component {
               <div className="row item">
                 <div className="twelve columns">
                   <h3>Firefighter VR</h3>
-                  <p className="info">Ruby on Rails<span>•</span> <em className="date">3 months</em></p>
+                  <p className="info">Ruby on Rails<span>•</span> <em className="date">3 months | contractor-4</em></p>
                   <p>
                     The Firefighter VR Trainings Platform under the patronage of the German Association of the factory
                     firefighter departments (WFVD) and run by the Northdocks GmbH offers a software as a service platform
@@ -42,7 +42,7 @@ export default class Resume extends Component {
               <div className="row item">
                 <div className="twelve columns">
                   <h3>Developer Skill Test</h3>
-                  <p className="info">Ruby on Rails<span>•</span> <em className="date">1 month</em></p>
+                  <p className="info">Ruby on Rails<span>•</span> <em className="date">1 month | contractor-4</em></p>
                   <p>
                     The tool to hire new developers via proper skill testing. I was responsible for developing as well as code reviews.
                   </p>
@@ -52,7 +52,7 @@ export default class Resume extends Component {
               <div className="row item">
                 <div className="twelve columns">
                   <h3>Client websites based on Nuxt</h3>
-                  <p className="info">VueJS(FE), Ruby on Rails(BE)<span>•</span> <em className="date">1.5 months</em></p>
+                  <p className="info">VueJS(FE), Ruby on Rails(BE)<span>•</span> <em className="date">2 months | contractor-4</em></p>
                   <p>
                     I was responsible for developing the frontend for two companies portfolio sites as well as
                     the backend to manage the authentication, subscriptions, and alerts.
@@ -63,7 +63,7 @@ export default class Resume extends Component {
               <div className="row item">
                 <div className="twelve columns">
                   <h3>Kelana</h3>
-                  <p className="info">Ruby on Rails<span>•</span> <em className="date">1 month</em></p>
+                  <p className="info">Ruby on Rails<span>•</span> <em className="date">1 month | contractor-4</em></p>
                   <p>
                     Resource management and time tracking tool for Pairing.
                   </p>
@@ -73,7 +73,7 @@ export default class Resume extends Component {
               <div className="row item">
                 <div className="twelve columns">
                   <h3>Global Sense</h3>
-                  <p className="info">ExpressJS<span>•</span> <em className="date">2 months</em></p>
+                  <p className="info">ExpressJS<span>•</span> <em className="date">2 months | contractor-3</em></p>
                   <p>
                     Mobile Application to add smart devices and manage the security notifications and alerts.
                   </p>
@@ -83,7 +83,7 @@ export default class Resume extends Component {
               <div className="row item">
                 <div className="twelve columns">
                   <h3>Eggplant Dex</h3>
-                  <p className="info">ReactJS, web3, Binance<span>•</span> <em className="date">3 weeks</em></p>
+                  <p className="info">ReactJS, web3, Binance<span>•</span> <em className="date">1 month | contractor-2</em></p>
                   <p>
                     Eggplant is a new deflationary token on the Binance Smart Chain, featuring
                     its own DEX — A passion project formed from the wet dreams of every crypto
@@ -96,7 +96,7 @@ export default class Resume extends Component {
               <div className="row item">
                 <div className="twelve columns">
                   <h3>RemoteReps</h3>
-                  <p className="info">ROR and ReactJs<span>•</span> <em className="date">8 months</em></p>
+                  <p className="info">ROR and ReactJs<span>•</span> <em className="date">8 months | contractor-3</em></p>
                   <p>
                     Remote Reps provides the needed solution: a virtual sales and service workforce,
                     sourced from our strong network of experienced professionals around the world.
@@ -109,7 +109,7 @@ export default class Resume extends Component {
               <div className="row item">
                 <div className="twelve columns">
                   <h3>RageOn</h3>
-                  <p className="info">ROR, ReactJs, Liquid, Shopify integration and NodeJS<span>•</span> <em className="date">5 months</em></p>
+                  <p className="info">ROR, ReactJs, Liquid, Shopify integration and NodeJS<span>•</span> <em className="date">5 months | contractor-2</em></p>
                   <p>
                     RageOn.com is the World’s Largest All-Over-Print Online Store that features over 150 licensed celebrities,
                     brands, and artists from all over the world. Here users can create customized products of more than 200 types
@@ -121,7 +121,7 @@ export default class Resume extends Component {
               <div className="row item">
                 <div className="twelve columns">
                   <h3>Createy</h3>
-                  <p className="info">Ruby on Rails and ReactJs<span>•</span> <em className="date">12 months</em></p>
+                  <p className="info">Ruby on Rails and ReactJs<span>•</span> <em className="date">12 months | contractor-1</em></p>
                   <p>
                     A one stop solution for creating and managing your online business, including payment solution,
                     mobile and web app creation and management, inventory management and many more.
@@ -132,7 +132,7 @@ export default class Resume extends Component {
               <div className="row item">
                 <div className="twelve columns">
                   <h3>Eduleaf</h3>
-                  <p className="info">Ruby on Rails<span>•</span> <em className="date">2 month</em></p>
+                  <p className="info">Ruby on Rails<span>•</span> <em className="date">2 month | Devsinc</em></p>
                   <p>
                     Eduleaf is an automated online tool that allows the grading of ordinary paper-based exams
                     containing any type of questions. It can handle math questions, chemical diagrams,
@@ -144,7 +144,7 @@ export default class Resume extends Component {
               <div className="row item">
                 <div className="twelve columns">
                   <h3>HRMS</h3>
-                  <p className="info">Ruby on Rails and ReactJS<span>•</span> <em className="date">3 months</em></p>
+                  <p className="info">Ruby on Rails and ReactJS<span>•</span> <em className="date">3 months | Devsinc</em></p>
                   <p>
                     It's a Human resource management system. It manages resource leaves, extra expenses, queries, etc.
                   </p>
@@ -154,7 +154,7 @@ export default class Resume extends Component {
               <div className="row item">
                 <div className="twelve columns">
                   <h3>SS-Cloud</h3>
-                  <p className="info">Ruby on Rails, AngularJS and Python(flask)<span>•</span> <em className="date">12 months</em></p>
+                  <p className="info">Ruby on Rails, AngularJS and Python(flask)<span>•</span> <em className="date">12 months | Devsinc</em></p>
                   <p>
                     It’s a platform to manage un-sold, damaged products and hazard waste. Here buyers can contact
                     sellers and it will also provide guidance for hazard waste transport rules applicable on their products.
@@ -165,7 +165,7 @@ export default class Resume extends Component {
               <div className="row item">
                 <div className="twelve columns">
                   <h3>Acloud</h3>
-                  <p className="info">Ruby on Rails and ReactJS<span>•</span> <em className="date">16 months</em></p>
+                  <p className="info">Ruby on Rails and ReactJS<span>•</span> <em className="date">16 months | Devsinc</em></p>
                   <p>
                     This is a License management tool of a well known Networking company.
                     A user can buy a license of a Network security device and can monitor its usage here..
@@ -176,7 +176,7 @@ export default class Resume extends Component {
               <div className="row item">
                 <div className="twelve columns">
                   <h3>TRM</h3>
-                  <p className="info">Ruby on Rails<span>•</span> <em className="date">4 months</em></p>
+                  <p className="info">Ruby on Rails<span>•</span> <em className="date">4 months | Devsinc</em></p>
                   <p>
                     A platform for universities and students where Universities can offer
                     courses and Students can enroll themselves into multiple courses.
