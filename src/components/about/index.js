@@ -24,9 +24,9 @@ export default class About extends Component {
                   <h2>Contact Details</h2>
                   <p className="address">
                     <span>Haroon Sarfraz</span><br />
-                    <span>Lahore, Pakistan<br />
+                    <span>Edinburgh, United Kingdom<br />
                     </span><br />
-                    <span>(+92) 348-7807592</span><br />
+                    <span>(+44) 7887-248766</span><br />
                     <span>haroonsarfraz10@gmail.com</span>
                   </p>
                 </div>
