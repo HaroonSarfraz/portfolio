@@ -39,10 +39,27 @@ export default class Resume extends Component {
             <div className="nine columns main-col">
               <div className="row item">
                 <div className="twelve columns">
+                  <h3>Office App</h3>
+                  <p className="info">
+                    ROR and ReactJs<span>•</span>{" "}
+                    <em className="date">May-2022 to continue | RemoteReps</em>
+                  </p>
+                  <p>
+                    Remote Reps provides the needed solution: a virtual sales
+                    and service workforce, sourced from our strong network of
+                    experienced professionals around the world. The product is
+                    about hiring new resources and managing resources, clients,
+                    and their projects effectively.
+                  </p>
+                </div>
+              </div>{" "}
+              {/* item end */}
+              <div className="row item">
+                <div className="twelve columns">
                   <h3>Vendo</h3>
                   <p className="info">
                     NextJS, ReactJS, NodeJS, NestJS<span>•</span>{" "}
-                    <em className="date">8 months and continue | RemoteReps</em>
+                    <em className="date">March-2023 to continue | RemoteReps</em>
                   </p>
                   <p>
                     Build your brand on a strong foundation, accelerate your
@@ -59,7 +76,7 @@ export default class Resume extends Component {
                   <h3>Global Sense</h3>
                   <p className="info">
                     ExpressJS<span>•</span>{" "}
-                    <em className="date">2 months | RemoteReps</em>
+                    <em className="date">Jan-2023 to March-2023 | RemoteReps</em>
                   </p>
                   <p>
                     Mobile Application to add smart devices and manage the
@@ -70,27 +87,10 @@ export default class Resume extends Component {
               {/* item end */}
               <div className="row item">
                 <div className="twelve columns">
-                  <h3>Office App</h3>
-                  <p className="info">
-                    ROR and ReactJs<span>•</span>{" "}
-                    <em className="date">8 months | RemoteReps</em>
-                  </p>
-                  <p>
-                    Remote Reps provides the needed solution: a virtual sales
-                    and service workforce, sourced from our strong network of
-                    experienced professionals around the world. The product is
-                    about hiring new resources and managing resources, clients,
-                    and their projects effectively.
-                  </p>
-                </div>
-              </div>{" "}
-              {/* item end */}
-              <div className="row item">
-                <div className="twelve columns">
                   <h3>Firefighter VR</h3>
                   <p className="info">
                     Ruby on Rails<span>•</span>{" "}
-                    <em className="date">Maintenance updates | Jazzari</em>
+                    <em className="date">Dec-2021 to May-2022 | Maintenance updates | Jazzari</em>
                   </p>
                   <p>
                     The Firefighter VR Trainings Platform under the patronage of
@@ -106,7 +106,7 @@ export default class Resume extends Component {
                   <h3>Developer Skill Test</h3>
                   <p className="info">
                     Ruby on Rails<span>•</span>{" "}
-                    <em className="date">Reviewer | Jazzari</em>
+                    <em className="date">Dec-2021 to May-2022 | Reviewer | Jazzari</em>
                   </p>
                   <p>
                     The tool to hire new developers via proper skill testing. I
@@ -120,7 +120,7 @@ export default class Resume extends Component {
                   <h3>Client websites based on Nuxt</h3>
                   <p className="info">
                     VueJS(FE), Ruby on Rails(BE)<span>•</span>{" "}
-                    <em className="date">2 months | Jazzari</em>
+                    <em className="date">Oct-2021 to Dec-2021 | Jazzari</em>
                   </p>
                   <p>
                     I was responsible for developing the frontend for two
@@ -135,7 +135,7 @@ export default class Resume extends Component {
                   <h3>Eggplant Dex</h3>
                   <p className="info">
                     ReactJS, web3, Binance<span>•</span>{" "}
-                    <em className="date">1 month | Jazzari</em>
+                    <em className="date">Sep-2021 to Oct-2021 | Jazzari</em>
                   </p>
                   <p>
                     Eggplant is a new deflationary token on the Binance Smart
@@ -152,7 +152,7 @@ export default class Resume extends Component {
                   <h3>RageOn</h3>
                   <p className="info">
                     ROR, ReactJs, Liquid, Shopify integration and NodeJS
-                    <span>•</span> <em className="date">5 months | Jazzari</em>
+                    <span>•</span> <em className="date">April-2021 to Sep-2021 | Jazzari</em>
                   </p>
                   <p>
                     RageOn.com is the World’s Largest All-Over-Print Online
@@ -169,7 +169,7 @@ export default class Resume extends Component {
                   <h3>Createy</h3>
                   <p className="info">
                     Ruby on Rails and ReactJs<span>•</span>{" "}
-                    <em className="date">12 months | Jazzari</em>
+                    <em className="date">April-2020 to April-2021 | Jazzari</em>
                   </p>
                   <p>
                     A one stop solution for creating and managing your online
@@ -184,7 +184,7 @@ export default class Resume extends Component {
                   <h3>HRMS</h3>
                   <p className="info">
                     Ruby on Rails and ReactJS<span>•</span>{" "}
-                    <em className="date">3 months | Devsinc</em>
+                    <em className="date">Sep-2019 April-2020 | Devsinc</em>
                   </p>
                   <p>
                     It's a Human resource management system. It manages resource
@@ -198,7 +198,7 @@ export default class Resume extends Component {
                   <h3>SS-Cloud</h3>
                   <p className="info">
                     Ruby on Rails, AngularJS and Python(flask)<span>•</span>{" "}
-                    <em className="date">12 months | Devsinc</em>
+                    <em className="date">April-2019 - April-2020 | Devsinc</em>
                   </p>
                   <p>
                     It’s a platform to manage un-sold, damaged products and
@@ -214,7 +214,7 @@ export default class Resume extends Component {
                   <h3>Acloud</h3>
                   <p className="info">
                     Ruby on Rails and ReactJS<span>•</span>{" "}
-                    <em className="date">16 months | Devsinc</em>
+                    <em className="date">Jan-2018 to April-2019 | Devsinc</em>
                   </p>
                   <p>
                     This is a License management tool of a well known Networking
@@ -229,7 +229,7 @@ export default class Resume extends Component {
                   <h3>TRM</h3>
                   <p className="info">
                     Ruby on Rails<span>•</span>{" "}
-                    <em className="date">4 months | Devsinc</em>
+                    <em className="date">Aug-2017 to Dec-2017 | Devsinc</em>
                   </p>
                   <p>
                     A platform for universities and students where Universities

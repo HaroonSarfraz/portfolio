@@ -32,7 +32,7 @@ export default class About extends Component {
                 </div>
                 <div className="columns download">
                   <p>
-                    <a href="resume.pdf" className="button" download><i className="fa fa-download" />Download Resume</a>
+                    <a href="haroon-sarfraz.pdf" className="button" download><i className="fa fa-download" />Download Resume</a>
                   </p>
                 </div>
               </div>
